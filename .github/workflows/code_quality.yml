@@ -1,5 +1,5 @@
-name: Code_Quality
-rum-name: (Run by $ {{ github.actor}})
+name: Code Quality Check
+rum-name: (Run by ${{ github.actor }})
 
 on;
   pull_request:
